@@ -1,1 +1,2 @@
+-- SELECT ***
 SELECT * FROM Proveedores;
